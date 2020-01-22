@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 
 header("Content-type: text/html; charset=utf-8");
 error_reporting(-1);
@@ -28,7 +28,7 @@ $arr_with_mess = get_message ();
 			<label for="text">Текст:</label><br>
 			<textarea name="text" id="text"></textarea>
 		</p>
-		<button type="submit">Написать</button>
+		<p><button type="submit">Написать</button></p>
 	</form>
 	<hr>
 
