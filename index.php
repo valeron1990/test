@@ -20,6 +20,9 @@ $arr_with_mess = get_message ();
 </head>
 <body>
 	<header>Шапка сайта</header>
+	<main>
+		<h1>hello world</h1>
+	</main>
 	<form method="post">
 		<p>
 			<label for="name">Имя:</label><br>
