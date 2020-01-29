@@ -19,6 +19,7 @@ $arr_with_mess = get_message ();
 	<title>Document</title>
 </head>
 <body>
+	<header>Шапка сайта</header>
 	<form method="post">
 		<p>
 			<label for="name">Имя:</label><br>
@@ -28,7 +29,7 @@ $arr_with_mess = get_message ();
 			<label for="text">Текст:</label><br>
 			<textarea name="text" id="text"></textarea>
 		</p>
-		<p><button type="submit">Написать</button></p>
+		<p><button type="submit">отправить</button></p>
 	</form>
 	<hr>
 
