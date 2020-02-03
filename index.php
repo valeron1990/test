@@ -44,5 +44,6 @@ $arr_with_mess = get_message ();
 			<hr>
 		<?php endforeach;?>
 	<? endif; ?>
+	<footer></footer>
 </body>
 </html>
